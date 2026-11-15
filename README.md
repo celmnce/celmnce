@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFA29E,50:D75252,100:9B2226&height=220&section=header&text=Hello%20World%20:)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Systems%20•%20Research%20•%20Photography&descAlignY=60&descSize=16" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF706B,50:FF3333,100:CC0000&height=220&section=header&text=Hello%20World%20:)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Systems%20•%20Research%20•%20Photography&descAlignY=60&descSize=16" width="100%" alt="header"/>
 
 ## 🧑‍💻 About Me
  
